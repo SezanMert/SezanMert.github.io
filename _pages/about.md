@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hey! I'm Sezan! "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## Hey! I'm Sezan! 
 
 Welcome to my webpage. I am a person who is interested in how the brain works in general, and to seek answers to my endless questions, I am pursuing a master's degree in Neuroscience. And I plan to keep looking for these answers further with a PhD!
 
