@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sezan Mert"
-  avatar           : "SezanMert_photo.jpg"
+  avatar           : "../images/SezanMert_photo.jpg"
   bio              : "MS Student in Neuroscience at Bilkent University"
   location         : "Ankara, TURKEY"
   employer         :
