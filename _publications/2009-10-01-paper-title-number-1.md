@@ -1,15 +1,8 @@
 ---
-title: "Paper Title Number 1"
+title: "Connectivity of hippocampus and thalamus in sleep: a case study
+with an epilepsy patient"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: 'https://drive.google.com/file/d/1n6-S4LjlTRxsUpoLzRmMLMMfRrqs30q9/view'
+date: 2023-09-9
+venue: '2nd Joint German-Turkish Symposium on Human Neuroscience'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
