@@ -7,7 +7,7 @@ date: 2022-09-12
 location: "Ankara, Turkey"
 ---
 
-I have assisted with the lab sessions. Also, I prepared and conducted recitation hours.
+For two semesters, I have been assisting with the lab sessions. Also, I prepared and conducted recitation hours.
 
 Heading 1
 ======
