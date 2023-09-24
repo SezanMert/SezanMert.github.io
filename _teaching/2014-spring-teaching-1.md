@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant for EEE312 Signals and Systems Course"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Bilkent University, Electrical and Electronics Engineering Department"
+date: 2022-09-12
+location: "Ankara, Turkey"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I have assisted with the lab sessions. Also, I prepared and conducted recitation hours.
 
 Heading 1
 ======
