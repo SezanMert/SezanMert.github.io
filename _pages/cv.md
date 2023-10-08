@@ -33,8 +33,8 @@ Academic experience
   
 Skills
 ======
-* **Programming Languages: ** Python, MATLAB, C++, JavaScript, Java, SQL, C, Verilog (ordered according to proficiency and experience)
-* **Software & Tools: ** PsychoPy, MNE-Python, Psychtoolbox, LaTeX, LabView, LTSpice, Quartus (ordered according to proficiency and experience)
+* **Programming Languages:** Python, MATLAB, C++, JavaScript, Java, SQL, C, Verilog (ordered according to proficiency and experience)
+* **Software & Tools:** PsychoPy, MNE-Python, Psychtoolbox, LaTeX, LabView, LTSpice, Quartus (ordered according to proficiency and experience)
 
 Publications
 ======
