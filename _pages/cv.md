@@ -17,19 +17,19 @@ Education
 Academic experience
 ======
 * **Graduate Researcher at CCN Lab** - National Magnetic Resonance Research Center (UMRAM) 
-  * Duration: September 2022 - Ongoing
-  * Supervisor: Burcu A. Ürgen 
+  * *Duration:* September 2022 - Ongoing
+  * *Supervisor:* Burcu A. Ürgen 
   * Computational modeling of attentional load on biological motion perception with fMRI data.
   * Coding a pilot EEG experiment for perception of real actions and attentional processes on them.
     
 * **Teaching Assistant in Signals and Systems Course** - Dept. of EEE at Bilkent University
-  * Duration: September 2022 - Ongoing
+  * *Duration:* September 2022 - Ongoing
   * Assisting lab sessions.
   * Preparing and conducting the recitation hours.
     
 * **Undergraduate Research Assistant at CCN Lab** - National Magnetic Resonance Research Center (UMRAM)
-  * Duration: September 2021 - September 2022
-  * Supervisors: Sena Er Elmas & Hüseyin Elmas
+  * *Duration:* September 2021 - September 2022
+  * *Supervisors:* Burcu A. Ürgen, Sena Er Elmas & Hüseyin Elmas
   * Time-frequency analysis on intracerebral EEG data.
   * Visualization of Representative Similarity Analysis results.
   * Assisting EEG data collection.
@@ -48,20 +48,22 @@ Publications
 Internships
 ======
 * **[Kuartis Technology and Consulting](https://kuartis.com/en/)** - Hardware & Embedded Software Dept.
-  * Duration: July 2021 - September 2021
+  * *Duration:* July 2021 - September 2021
+  * *Supervisor:* Balkar Erdoğan
   * Audio signal feature extraction and classifier training for determining the swallowing instances of premature babies for monitoring (NeoSAFE Project).
   * Ethernet protocol research for a specific real-time application with strict latency requirements.
 
 * **[IBM Turkey](https://www.ibm.com/planetwide/tr/)** - Cloud & Cognitive Software Dept.
-  * Duration: July 2020 - August 2020
+  * *Duration:* July 2020 - August 2020
+  * *Supervisor:* Merve Özmen
   * Contributions to the NLP Project for providing Turkish support to Watson language-supported services.
   * Creating a chatbot for a shopping website with the connection of Tone Analyzer and Db2 database on the Cloud via Cloud Functions.
     
 * **[SnI Technology Services](https://snitechnology.net)** - Java Developers Team
-  * Duration: July 2019
+  * *Duration:* July 2019
   * Using knowledge of Java, SQL, Java Servlet, and HTML, a web application that connects and manipulates database has been designed and implemented on a scenario of holiday budget and destination.
 
-Online Courses % Certificates
+Online Courses & Certificates
 ======
 * **[Computational Neuroscience](https://portal.neuromatchacademy.org/certificate/7995d6c6-6614-4174-a013-074f24a1453c)** - Neuromatch Academy - July 2022
 * **[Computational Neuroscience]([https://portal.neuromatchacademy.org/certificate/7995d6c6-6614-4174-a013-074f24a1453c](https://www.coursera.org/account/accomplishments/verify/ZALX7XY4AWM4?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)https://www.coursera.org/account/accomplishments/verify/ZALX7XY4AWM4?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)** - University of Washington on Coursera - March 2021
@@ -80,11 +82,11 @@ Position of Responsibility
 ======
 
 * **Organization Committee Member** - 15th METU Robotics Day
-  * Duration: October 2017 - June 2018
+  * *Duration:* October 2017 - June 2018
   * Referee in the maze competition and responsible for building the maze for the competition.
     
-* **Active Member of Erasmus Plus Projects** - Social Responsibility Projects of METU-Köprü
-  * Duration: October 2016 - March 2017
+* **Member of Erasmus Plus Projects** - Social Responsibility Projects of METU-Köprü
+  * *Duration:* October 2016 - March 2017
   * Library Project: Building libraries in rural schools in Turkey by collecting books at the campus
 
 Scholarships
