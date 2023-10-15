@@ -10,6 +10,7 @@ author_profile: false
 
 ### Graduate Projects
 | Column 1                              | Column 2  |
+| --------                              | --------  |
 | ![bciimage](/images/bciproject1.PNG)  | [**EE585 - Statistical Learning and Data Analytics:** Hand/Feet Movement Classification from EEG Data with Self-Written SVM, KNN and Logistic Regression Classifiers](#)| 
 | ![eeginverse](/images/eeginverse.PNG) | [**EE585 - Statistical Learning and Data Analytics:** Literature Survey on Methods for EEG Inverse Problem](#)                                                          |
 | ![csproject](/images/csproject.PNG)   | [**CS554 - Computer Vision:** Human Action Recognition from Videos](#)                                                                                                  |
