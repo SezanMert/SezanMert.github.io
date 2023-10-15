@@ -105,13 +105,13 @@ Project names are clickable and will direct you to the reports of the projects.
 
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none; height: 200px;">
-    <td style="border: none;"><img src="/images/Kuartis-Logo.png" alt="kuartis"  width="400" height="200" /></td>
+    <td style="border: none;"><img src="/images/Kuartis-Logo.png" alt="kuartis"  width="200" height="100" /></td>
     <td style="border: none;"><a href="../documents/EE553_OPTPROJE__website_.pdf">Kuartis Technology and Consulting Summer Practice Report
           </a>
     </td>
   </tr>
   <tr style="border: none; height: 200px;">
-    <td style="border: none;"><img src="/images/IBM_logo.png" alt="ibm"  width="400" height="200" /></td>
+    <td style="border: none;"><img src="/images/IBM_logo.png" alt="ibm"  width="200" height="100" /></td>
     <td style="border: none;"><a href="../documents/EE553_OPTPROJE__website_.pdf">IBM Turkey Summer Practice Report
           </a>
     </td>
