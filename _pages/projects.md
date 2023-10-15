@@ -9,7 +9,7 @@ author_profile: false
 
 
 ### Graduate Projects
-<table cellspacing="0" cellpadding="0">
+<table>
   <tr>
     <td><img src="/images/bciproject1.PNG" alt="bciimage" width="200" height="150" /></td>
     <td><a href="../documents/EE553_OPTPROJE__website_.pdf">
@@ -59,6 +59,12 @@ author_profile: false
     </td>
   </tr>
 </table>
+
+<style>
+.tab {border-collapse:collapse;}
+.tab .first {border-bottom:1px solid #EEE;}
+.tab .second {border-top:1px solid #CCC;box-shadow: inset 0 1px 0 #CCC;}​
+</style>
 
 ### Undergraduate Projects
 
