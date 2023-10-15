@@ -64,12 +64,36 @@ author_profile: false
 
 ### Undergraduate Projects
 
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
+<table style="border-collapse: collapse; border: none;">  
+  <tr style="border: none; height: 200px;">
+    <td style="border: none;"><img src="/images/biomedical.PNG" alt="biomedical" width="200" height="150" /></td>
+    <td style="border: none;"><a  href="../documents/EE553_OPTPROJE__website_.pdf">
+                            <strong style="font-size: 1.2vw;" >EE415 Introduction to Medical Imaging:</strong>
+                            Projection </a> and <a  href="../documents/EE553_OPTPROJE__website_.pdf">Backprojection Application with GUI on MATLAB 
+                            </a>
+    </td>
+  </tr>
+  <tr style="border: none; height: 200px;">
+    <td style="border: none;"><img src="/images/haico.jpg" alt="haico" width="200" height="150" /></td>
+    <td style="border: none;"><a  href="../documents/EE553_OPTPROJE__website_.pdf">
+                            <strong style="font-size: 1.2vw;" >EE493-494 Engineering Design I & II:</strong>
+                            Capstone Project - A Wearable Device Design and Implementation for Self-Monitoring COVID-19 Symptoms
+          </a>
+    </td>
+  </tr>
+  <tr style="border: none; height: 200px;">
     <td style="border: none;"><img src="/images/geneticalproject.PNG" alt="geneticalgproject" width="200" height="150" /></td>
     <td style="border: none;"><a  href="../documents/EE553_OPTPROJE__website_.pdf">
                             <strong style="font-size: 1.2vw;" >EE449 - Computational Intelligence:</strong>
                             Evolutionary Art with Evolutionary Algorithm
+          </a>
+    </td>
+  </tr>
+  <tr style="border: none; height: 200px;">
+    <td style="border: none;"><img src="/images/dspproject.PNG" alt="dspproject" width="200" height="150" /></td>
+    <td style="border: none;"><a  href="../documents/EE553_OPTPROJE__website_.pdf">
+                            <strong style="font-size: 1.2vw;" >EE430 - Digital Signal Processing:</strong>
+                            A MATLAB Application with GUI for Signal and Spectrogram Generation </a> and <a  href="../documents/EE553_OPTPROJE__website_.pdf"> Range & Speed Estimation of a Constant Speed Vehicle from Spectrograms
           </a>
     </td>
   </tr>
