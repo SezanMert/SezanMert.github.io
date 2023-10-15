@@ -11,8 +11,12 @@ author_profile: false
 ### Graduate Projects
 <table>
   <tr>
-    <td>Key 1</td>
-    <td>Value 1</td>
+    <td><img src="/images/bciproject1.PNG" alt="bciimage" width="200" height="150" /></td>
+    <td><a  class=ordinary-link href="../documents/EE553_OPTPROJE__website_.pdf">
+                            <strong style="font-size: 1.2vw;" >EE585 - Statistical Learning and Data Analytics:</strong>
+                            Hand/Feet Movement Classification from EEG Data with Self-Written SVM, KNN and Logistic Regression Classifiers
+          </a>
+    </td>
   </tr>
   <tr>
     <td>Key 2</td>
