@@ -27,8 +27,12 @@ author_profile: false
     </td>
   </tr>
   <tr>
-    <td>Key 3</td>
-    <td>Value 3</td>
+    <td><img src="/images/csproject.PNG" alt="csproject" width="200" height="150" /></td>
+    <td><a  class=ordinary-link href="../documents/EE553_OPTPROJE__website_.pdf">
+                            <strong style="font-size: 1.2vw;" >CS554 - Computer Vision:</strong>
+                            Human Action Recognition from Videos
+          </a>
+    </td>
   </tr>
 </table>
 
