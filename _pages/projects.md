@@ -7,6 +7,7 @@ author_profile: false
 
 {% include base_path %}
 
+Project names are clickable and will direct you to the reports of the projects.
 
 ### Graduate Projects
 
