@@ -11,17 +11,17 @@ author_profile: false
 ### Graduate Projects
 
 <table style="border-collapse: collapse; border: none;">
-  <tr>
+  <tr style="border: none;">
     <td style="border: none;"><img src="/images/bciproject1.PNG" alt="bciimage" width="200" height="150" /></td>
-    <td><a href="../documents/EE553_OPTPROJE__website_.pdf">
+    <td style="border: none;"><a href="../documents/EE553_OPTPROJE__website_.pdf">
                             <strong  style="font-size: 1.2vw;" >EE585 - Statistical Learning and Data Analytics:</strong>
                             Hand/Feet Movement Classification from EEG Data with Self-Written SVM, KNN, and Logistic Regression Classifiers
           </a>
     </td>
   </tr>
-  <tr>
-    <td><img src="/images/eeginverse.PNG" alt="eeginverse" width="200" height="150" /></td>
-    <td><a href="../documents/EE553_OPTPROJE__website_.pdf">
+  <tr style="border: none;">
+    <td style="border: none;"><img src="/images/eeginverse.PNG" alt="eeginverse" width="200" height="150" /></td>
+    <td style="border: none;"><a href="../documents/EE553_OPTPROJE__website_.pdf">
                             <strong style="font-size: 1.2vw;" >EE585 - Statistical Learning and Data Analytics:</strong>
                             Literature Survey on Methods for EEG Inverse Problem
           </a>
