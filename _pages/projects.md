@@ -53,3 +53,4 @@ author_profile: false
 |   | [**EE449 - Computational Intelligence:** Evolutionary Art with Genetic Algorithm](#) | 
 
                      
+### Summer Practice Projects
