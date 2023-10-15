@@ -13,7 +13,7 @@ author_profile: false
 |                  | Course                                                                                                                                                   | 
 | --------         | ------                                                                                                                                                   |
 | ![bciimage](/images/bciproject1.PNG)  | [**EE585 - Statistical Learning and Data Analytics:** Hand/Feet Movement Classification from EEG Data with Self-Written SVM, KNN and Logistic Regression Classifiers](#)| 
-| ![bciimage](/images/eeginverse.PNG)   | [**EE585 - Statistical Learning and Data Analytics:** Literature Survey on Methods for EEG Inverse Problem](#)                                                          |
+| ![eeginverse](/images/eeginverse.PNG)   | [**EE585 - Statistical Learning and Data Analytics:** Literature Survey on Methods for EEG Inverse Problem](#)                                                          |
 |   | [**CS554 - Computer Vision:** Human Action Recognition from Videos](#)                                                                                                  |
 |   | [**CS554 - Computer Vision:** Literature Survey on Conventional Methods for Human Action Recognition](#)                                                                |
 |   | [**EE543 - Neural Networks:** Text to Image Synthesis Using Different Generative Adversarial Networks](#)                                                               |
