@@ -28,7 +28,7 @@ author_profile: false
     </td>
   </tr>
   <tr style="border: none; height: 200px;">
-    <td style="border: none;"><img src="/images/csproject.PNG" alt="csproject" width="200" height="150" /></td>
+    <td style="border: none;"><img src="/images/csproject.PNG" alt="csproject" width="400" height="200" /></td>
     <td style="border: none;"><a href="../documents/EE553_OPTPROJE__website_.pdf">
                             <strong style="font-size: 1.2vw;" >CS554 - Computer Vision:</strong>
                             Human Action Recognition from Videos
