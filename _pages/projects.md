@@ -16,7 +16,7 @@ Project names are clickable and will direct you to the reports of the projects.
     <td style="border: none;"><img src="/images/bciproject1.PNG" alt="bciimage" width="400" height="200" /></td>
     <td style="border: none;"><a href="https://drive.google.com/file/d/1GbJ6t4kjUUPGxwpz6bt24duGgz7nySNf/view?usp=sharing">
                             <b  style="font-size: 1.2vw;" >EE585 - Statistical Learning and Data Analytics:</b>
-                            Hand/Feet Movement Classification from EEG Data with Self-Written SVM, KNN, and Logistic Regression Classifiers
+                            <font style="font-size: 1.2vw;" >Hand/Feet Movement Classification from EEG Data with Self-Written SVM, KNN, and Logistic Regression Classifiers</font>
           </a>
     </td>
   </tr>
