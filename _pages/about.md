@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hey! I'm Sezan! "
+title: "Hey! I'm Sezan!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
