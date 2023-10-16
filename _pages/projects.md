@@ -15,7 +15,7 @@ Project names are clickable and will direct you to the reports of the projects.
   <tr style="border: none; height: 200px;">
     <td style="border: none;"><img src="/images/bciproject1.PNG" alt="bciimage" width="400" height="200" /></td>
     <td style="border: none;"><a href="https://drive.google.com/file/d/1GbJ6t4kjUUPGxwpz6bt24duGgz7nySNf/view?usp=sharing">
-                            <strong  style="font-size: 1.2vw;" >EE585 - Statistical Learning and Data Analytics:</strong>
+                            <b  style="font-size: 1.2vw;" >EE585 - Statistical Learning and Data Analytics:</b>
                             Hand/Feet Movement Classification from EEG Data with Self-Written SVM, KNN, and Logistic Regression Classifiers
           </a>
     </td>
@@ -23,7 +23,7 @@ Project names are clickable and will direct you to the reports of the projects.
   <tr style="border: none; height: 200px;">
     <td style="border: none;"><img src="/images/eeginverse.PNG" alt="eeginverse" width="400" height="200" /></td>
     <td style="border: none;"><a href="https://drive.google.com/file/d/1CwMKjDQjizqy6IbxsZP3pCtQgL-okhzo/view?usp=sharing">
-                            <strong style="font-size: 1.2vw;" >EE585 - Statistical Learning and Data Analytics:</strong>
+                            <b style="font-size: 1.2vw;" >EE585 - Statistical Learning and Data Analytics:</b>
                             Literature Survey on Methods for EEG Inverse Problem
           </a>
     </td>
