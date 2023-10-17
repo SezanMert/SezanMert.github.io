@@ -93,8 +93,7 @@ Project names are clickable and will direct you to the reports of the projects.
     <td style="border: none;"><img src="/images/dspproject.PNG" alt="dspproject" width="400" height="200" /></td>
     <td style="border: none;"><a  href="https://drive.google.com/file/d/14dNQj7o7FlK7YEriL9wskk7jca7ppd2d/view?usp=sharing">
                             <strong style="font-size: 1.2vw;" >EE430 - Digital Signal Processing:</strong>
-                            <font style="font-size: 1.2vw;" >A MATLAB Application with GUI for Signal and Spectrogram Generation </a> and <a  href="https://drive.google.com/file/d/1csjEQTfcl2JSxfit-xzGaEJsMy_vIejc/view?usp=sharing"> Range & Speed Estimation of a Constant Speed Vehicle from Spectrograms</font>
-          </a>
+                            <font style="font-size: 1.2vw;" >A MATLAB Application with GUI for Signal and Spectrogram Generation</font> </a><font style="font-size: 1.2vw;" > and </font><a  href="https://drive.google.com/file/d/1csjEQTfcl2JSxfit-xzGaEJsMy_vIejc/view?usp=sharing"> <font style="font-size: 1.2vw;" >Range & Speed Estimation of a Constant Speed Vehicle from Spectrograms</font></a>
     </td>
   </tr>
 </table>
