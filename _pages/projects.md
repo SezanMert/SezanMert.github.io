@@ -70,8 +70,7 @@ Project names are clickable and will direct you to the reports of the projects.
     <td style="border: none;"><img src="/images/biomedical.PNG" alt="biomedical" width="400" height="200" /></td>
     <td style="border: none;"><a  href="https://drive.google.com/file/d/1zZw9mJlcWwXAHNbsglYQDZPPwCl4jWF1/view?usp=sharing">
                             <strong style="font-size: 1.2vw;" >EE415 Introduction to Medical Imaging:</strong><font style="font-size: 1.2vw;" >
-                            Projection </a> and <a  href="https://drive.google.com/file/d/1PpDziJGxBM3XWKq8ggfBD5mOvhB7Ve_A/view?usp=sharing">Backprojection Application with GUI on MATLAB</font>
-                            </a>
+                            Projection</font> </a> <font style="font-size: 1.2vw;" > and </font> <a  href="https://drive.google.com/file/d/1PpDziJGxBM3XWKq8ggfBD5mOvhB7Ve_A/view?usp=sharing"> <font style="font-size: 1.2vw;" > Backprojection Application with GUI on MATLAB</font></a>
     </td>
   </tr>
   <tr style="border: none; height: 200px;">
