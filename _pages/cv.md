@@ -65,7 +65,7 @@ Internships
 Online Courses & Certificates
 ======
 * **[Computational Neuroscience](https://portal.neuromatchacademy.org/certificate/7995d6c6-6614-4174-a013-074f24a1453c)** - Neuromatch Academy - July 2022
-* **[Computational Neuroscience]([https://portal.neuromatchacademy.org/certificate/7995d6c6-6614-4174-a013-074f24a1453c](https://www.coursera.org/account/accomplishments/verify/ZALX7XY4AWM4?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)https://www.coursera.org/account/accomplishments/verify/ZALX7XY4AWM4?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)** - University of Washington on Coursera - March 2021
+* **[Computational Neuroscience](https://coursera.org/share/22894a88c188968a5bddeae53ca22117)** - University of Washington on Coursera - March 2021
 * **IBM Developer Skills Network Courses on cognitiveclass.ai** - August 2020
   * [Python 101 for Data Science](https://courses.cognitiveclass.ai/certificates/a241270b62e6443f89595e9feffe9982)
   * [Data Analysis with Python](https://courses.cognitiveclass.ai/certificates/43b64df5bad946869dfe22e031e38162)
