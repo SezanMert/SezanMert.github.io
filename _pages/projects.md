@@ -104,12 +104,14 @@ Project names are clickable and will direct you to the reports of the projects.
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none; height: 200px;">
     <td style="border: none;"><img src="/images/Kuartis-Logo.png" alt="kuartis"  width="200" height="100" /></td>
-    <td style="border: none;"><a href="https://drive.google.com/file/d/1NWvfeSUxovY8GVkZL5vymHGTG90XKq60/view?usp=sharing"><strong style="font-size: 1.2vw;" >Kuartis Technology and Consulting Summer Practice Report</strong></a>
+    <td style="border: none;"><a href="https://drive.google.com/file/d/1NWvfeSUxovY8GVkZL5vymHGTG90XKq60/view?usp=sharing">
+      <strong style="font-size: 1.2vw;" >Kuartis Technology and Consulting Summer Practice Report</strong></a>
     </td>
   </tr>
   <tr style="border: none; height: 200px;">
     <td style="border: none;"><img src="/images/IBM_logo.png" alt="ibm"  width="200" height="100" /></td>
-    <td style="border: none;"><a href="https://drive.google.com/file/d/1C20msipNOoDpAdaNP6KviT3Dl4PBdMXh/view?usp=sharing"><strong style="font-size: 1.2vw;" >IBM Turkey Summer Practice Report</strong></a>
+    <td style="border: none;"><a href="https://drive.google.com/file/d/1C20msipNOoDpAdaNP6KviT3Dl4PBdMXh/view?usp=sharing">
+      <strong style="font-size: 1.2vw;" >IBM Turkey Summer Practice Report</strong></a>
     </td>
   </tr>
 </table>
