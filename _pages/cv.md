@@ -18,7 +18,7 @@ Academic experience
 ======
 * **Graduate Researcher at CCN Lab** - National Magnetic Resonance Research Center (UMRAM) 
   * *Duration:* September 2022 - Ongoing
-  * *Supervisor:* Burcu A. Ürgen 
+  * *Supervisor:* Asst. Prof. Burcu A. Ürgen 
   * Computational modeling of attentional load on biological motion perception with fMRI data.
   * Coding a pilot EEG experiment for perception of real actions and attentional processes on them.
     
@@ -29,7 +29,7 @@ Academic experience
     
 * **Undergraduate Research Assistant at CCN Lab** - National Magnetic Resonance Research Center (UMRAM)
   * *Duration:* September 2021 - September 2022
-  * *Supervisors:* Burcu A. Ürgen, Sena Er Elmas & Hüseyin Elmas
+  * *Supervisors:* Asst. Prof. Burcu A. Ürgen, Sena Er Elmas & Hüseyin Elmas
   * Time-frequency analysis on intracerebral EEG data.
   * Visualization of Representative Similarity Analysis results.
   * Assisting EEG data collection.
@@ -48,7 +48,7 @@ Internships
 ======
 * **[Kuartis Technology and Consulting](https://kuartis.com/en/)** - Hardware & Embedded Software Dept.
   * *Duration:* July 2021 - September 2021
-  * *Supervisor:* Balkar Erdoğan
+  * *Supervisor:* Balkar Erdoğan, PhD. (Head of Hardware & Embedded Software Dept.)
   * Audio signal feature extraction and classifier training for determining the swallowing instances of premature babies for monitoring (NeoSAFE Project).
   * Ethernet protocol research for a specific real-time application with strict latency requirements.
 
@@ -99,7 +99,7 @@ Languages & Hobbies
 ======
 * **Languages:**
   * Turkish (native)
-  * English (fluent - TOEFL iBT Score:113/120)
+  * English (fluent - TOEFL iBT Score: **113**/120)
   * German (pre-intermediate - Goethe-Zertifikat A2)
     
 * **Hobbies**
