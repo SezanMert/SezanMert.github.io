@@ -10,7 +10,7 @@ author_profile: false
 Undergraduate course, _Bilkent University, Electrical and Electronics Engineering Department_, 2022
 
 For two semesters, I have been assisting with the lab sessions. Also, I prepared and conducted recitation hours.
-You may find the solutions that I have prepared for the recitation questions (selected from Signals and Systems by Oppenheim and Willsky).
+You may find the solutions that I have prepared for the recitation questions below (selected from Signals and Systems by Oppenheim and Willsky).
 
 * **[Recitation 1](https://drive.google.com/file/d/1Vkciy13RxBpprX6NqAPAkkUDywvKhBlx/view?usp=sharing)** - Periodicity, system properties, LTI systems
 * **[Recitation 3](https://drive.google.com/file/d/1o9A2ArVtfQUO32eXWSB2ZsL83Utm0dnP/view?usp=sharing)** - Fourier Series (FS) coefficients, properties of FS
