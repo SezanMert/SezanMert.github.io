@@ -80,7 +80,7 @@ Online Courses & Certificates
 Position of Responsibility
 ======
 
-* **Organization Committee Member** - 15th METU Robotics Day
+* **Organization Committee Member** - 15th METU Robotics Day Event of [METU Robotics Society](https://robot.metu.edu.tr)
   * *Duration:* October 2017 - June 2018
   * Referee in the maze competition and responsible for building the maze for the competition.
     
