@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Neuroscience, Bilkent University, 2024 (expected) - CGPA: **3.90**/4.00
+* M.Sc. in Neuroscience, Bilkent University, 2024 (expected) - CGPA: **3.93**/4.00
 * B.Sc. in Electrical and Electronics Engineering, Middle East Technical University, 2023 - CGPA: **3.16**/4.00
 
 Academic experience
