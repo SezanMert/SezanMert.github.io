@@ -7,9 +7,15 @@ author_profile: false
 
 {% include base_path %}
 
-Project names are clickable and will direct you to the reports of the projects.
+Project names are clickable and will direct you to the reports/pages of the projects.
 
-### Graduate Projects
+### Neuroscience Research Projects
+
+These are the projects that I am currently working on during my master's.
+
+
+
+### Graduate Course Projects
 
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none; height: 200px;">
@@ -63,7 +69,7 @@ Project names are clickable and will direct you to the reports of the projects.
 </table>
 
 
-### Undergraduate Projects
+### Undergraduate Course Projects
 
 <table style="border-collapse: collapse; border: none;">  
   <tr style="border: none; height: 200px;">
