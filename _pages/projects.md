@@ -32,7 +32,7 @@ These are the projects that I am currently working on during my master's degree.
   </tr>
 
   <tr style="border: none; height: 200px;">
-      <td style="border: none;"><img src="/images/ieegproject.gif" alt="iEEGImage" width="400" height="200" /></td>
+      <td style="border: none;"><img src="/images/image13.gif" alt="iEEGImage" width="400" height="200" /></td>
     <td style="border: none;"><a href="about:blank">
                             <font style="font-size: 1.2vw;" >Biological motion decision-making with intra-cranial EEG (iEEG) data</font>
           </a>
