@@ -11,11 +11,39 @@ Project names are clickable and will direct you to the reports/pages of the proj
 
 ### Neuroscience Research Projects
 
-These are the projects that I am currently working on during my master's.
+These are the projects that I am currently working on during my master's degree.
 
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none; height: 200px;">
+      <td style="border: none;"><img src="/images/fmriproject.PNG" alt="fmriImage.png" width="400" height="200" /></td>
+    <td style="border: none;"><a href="about:blank">
+                            <b  style="font-size: 1.2vw;" >Thesis Project:</b>
+                            <font style="font-size: 1.2vw;" >Modeling Attentional Load on Biological Motion Perception using fMRI data</font>
+          </a>
+    </td>
+  </tr>
 
+  <tr style="border: none; height: 200px;">
+      <td style="border: none;"><img src="/images/eegthesis.gif" alt="EEGImage" width="400" height="200" /></td>
+    <td style="border: none;"><a href="about:blank">
+                            <font style="font-size: 1.2vw;" >The effects of attentional load on video action perception with EEG</font>
+          </a>
+    </td>
+  </tr>
+
+  <tr style="border: none; height: 200px;">
+      <td style="border: none;"><img src="/images/.PNG" alt="EEGImage" width="400" height="200" /></td>
+    <td style="border: none;"><a href="about:blank">
+                            <font style="font-size: 1.2vw;" >Biologcal motion decision-making with intra-cranial EEG (iEEG) data</font>
+          </a>
+    </td>
+  </tr>
+
+</table>
 
 ### Graduate Course Projects
+
+These are the projects that I (alone or with my friends) have done for my graduate-level courses.
 
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none; height: 200px;">
@@ -70,6 +98,8 @@ These are the projects that I am currently working on during my master's.
 
 
 ### Undergraduate Course Projects
+
+This a set of selected projects that I (alone or with my friends) have done during my undergraduate education.
 
 <table style="border-collapse: collapse; border: none;">  
   <tr style="border: none; height: 200px;">
