@@ -15,8 +15,8 @@ Another goal of this study is to explain the top-down effect of attentional load
 
 <table style="border-collapse: collapse; border: none;">
 <tr style="border: none; height: 200px;">
-  <td style="border: none;"></td>
-  <td style="border: none;"></td>
+  <td style="border: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  <td style="border: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   <td style="border: none;"><a href="https://www.nature.com/articles/nrn1057">
   <font style="font-size: 1.2vw;" >M. Giese and T. Poggio (2003)</font></a>
   </td>
