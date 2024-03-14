@@ -9,7 +9,8 @@ author_profile: false
 
 Undergraduate course, _Bilkent University, Electrical and Electronics Engineering Department_, 2022
 
-For two semesters, I have been assisting with the lab sessions. Also, I prepared and conducted recitation hours.
+For four semesters, I have been a teaching assistant (TA) for the Signals and Systems course. This term, I am working as a coordinator TA where I organize the sharing of responsibilities and create content for lab assignments. I am also assisting with the lab sessions. Furthermore, I prepared and conducted recitation hours.
+
 You may find the solutions that I have prepared for the recitation questions below (selected from Signals and Systems by Oppenheim and Willsky).
 
 * **[Recitation 1](https://drive.google.com/file/d/1Vkciy13RxBpprX6NqAPAkkUDywvKhBlx/view?usp=sharing)** - Periodicity, system properties, LTI systems
