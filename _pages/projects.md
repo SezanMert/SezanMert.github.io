@@ -25,7 +25,7 @@ These are the projects that I am currently working on during my master's degree.
 
   <tr style="border: none; height: 200px;">
       <td style="border: none;"><img src="/images/eegthesis.gif" alt="EEGImage" width="400" height="200" /></td>
-    <td style="border: none;"><a href="[about:blank](https://sezanmert.github.io/eegproject/)">
+    <td style="border: none;"><a href="https://sezanmert.github.io/eegproject/">
                             <font style="font-size: 1.2vw;" >The effects of attentional load on video action perception with EEG</font>
           </a>
     </td>
