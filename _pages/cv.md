@@ -99,7 +99,7 @@ Languages & Hobbies
 ======
 * **Languages:**
   * Turkish (native)
-  * English (fluent - TOEFL iBT Score: **113**/120)
+  * English (fluent - TOEFL iBT Score: **110**/120)
   * German (pre-intermediate - Goethe-Zertifikat A2)
     
 * **Hobbies**
