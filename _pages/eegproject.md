@@ -15,11 +15,10 @@ The actions we see in real life possess many features that are left out in Point
   <td  style="border: none;"><img src="/images/eegthesis.gif" alt="eegthesis.png" width="400" height="200" /></td>  
   <td  style="border: none;"><img src="/images/data_collection.jpg" alt="data_collection.jpg" width="200" height="200" /></td>  
 </tr>
-  <tr style="border: none; width: 150px;">
-    <td style="border: none;">
+  <tr style="border: none; height: 200px;">
+    <td style="border: none;" width="150">
       <a href="https://www.jove.com/t/65436/a-naturalistic-setup-for-presenting-real-people-live-actions">
       <font style="font-size: 1.2vw;" >T. N. Pekçetin, Ş. Evsen, S. Pekçetin, C. Acarturk, B. A. Ürgen (2023)</font></a>
     </td>
   </tr>
-</tr>
 </table>
