@@ -16,7 +16,7 @@ These are the projects that I am currently working on during my master's degree.
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none; height: 200px;">
       <td style="border: none;"><img src="/images/fmriproject.png" alt="fmriImage.png" width="400" height="200" /></td>
-    <td style="border: none;"><a href="about:blank">
+    <td style="border: none;"><a href="https://sezanmert.github.io/thesisproject/">
                             <b  style="font-size: 1.2vw;" >Thesis Project:</b>
                             <font style="font-size: 1.2vw;" >Modeling Attentional Load on Biological Motion Perception using fMRI data</font>
           </a>
