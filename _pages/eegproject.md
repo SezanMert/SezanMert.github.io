@@ -18,7 +18,7 @@ The actions we see in real life possess many features that are left out in Point
   <tr style="border: none; height: 400px;">
     <td style="border: none;" colspan="3">
       <a href="https://www.jove.com/t/65436/a-naturalistic-setup-for-presenting-real-people-live-actions">
-      <font style="font-size: 0.5vw;" >T. N. Pekçetin, Ş. Evsen, S. Pekçetin, C. Acarturk, B. A. Ürgen (2023)</font></a>
+      <font style="font-size: 1.2vw;" >T. N. Pekçetin, Ş. Evsen, S. Pekçetin, C. Acarturk, B. A. Ürgen (2023)</font></a>
     </td>
   </tr>
 </tr>
