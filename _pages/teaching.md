@@ -9,7 +9,7 @@ author_profile: false
 
 Undergraduate course, _Bilkent University, Electrical and Electronics Engineering Department_, 2022
 
-For four semesters, I have been a teaching assistant (TA) for the Signals and Systems course. This term, I am working as a coordinator TA where I organize the sharing of responsibilities and create content for lab assignments. I am also assisting with the lab sessions. Furthermore, I prepared and conducted recitation hours.
+I have been a teaching assistant (TA) for the Signals and Systems course for three semesters. This term, I am working as a coordinator TA, where I organize the division of responsibilities and create content for lab assignments. I also assist with lab sessions. Furthermore, I prepared and conducted recitation hours.
 
 You may find the solutions that I have prepared for the recitation questions below (selected from Signals and Systems by Oppenheim and Willsky).
 
