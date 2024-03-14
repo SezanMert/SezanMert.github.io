@@ -11,13 +11,8 @@ In this project, by using previously acquired fMRI data, we aim to understand ho
 
 Another goal of this study is to explain the top-down effect of attentional load on biological motion perception with a mechanistic computational model. For this, we are inspired by the two-pathway biological motion perception model proposed by Giese and Poggio and wish to expand this model with top-down feedback connections showing the effects of attentional load.
 
-<img src="/images/thesis_project.PNG" alt="thesis_project.png" />
+<div style="display: flex; align-items: flex-end;">
+    <img src="/images/thesis_project.PNG" alt="thesis_project.png" style="margin-right: 10px;">
+    <a href="https://www.nature.com/articles/nrn1057" style="font-size: 1.2vw;">M. Giese and T. Poggio (2003)</a>
+</div>
 
-<table style="border-collapse: collapse; border: none;">
-<tr style="border: none; height: 200px;">
-  <td style="border: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-  <td style="border: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-  <td style="border: none;"><a href="https://www.nature.com/articles/nrn1057">
-  <font style="font-size: 1.2vw;" >M. Giese and T. Poggio (2003)</font></a>
-  </td>
-</tr>
