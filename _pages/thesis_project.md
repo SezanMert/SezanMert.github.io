@@ -7,9 +7,9 @@ author_profile: false
 
 ## Modeling Attentional Load on Biological Motion Perception using fMRI data
 
-In this project, by using previously acquired fMRI data, we aim to understand how effective connectivities are affected by attentional load and peripheral biological motion distractors. To this end, we use Dynamic Causal Modeling (DCM) for testing different hypotheses about the modulations of regions related to the biological motion perception (V1 and MT) and more high-level regions such as the Parietal cortex. For this project, I am using the SPM12 toolbox on MATLAB to conduct 1st level analyses and create DCM models.
+In this project, by using previously acquired fMRI data, we aim to understand how effective connectivities are affected by attentional load and peripheral biological motion distractors. To this end, we use Dynamic Causal Modeling (DCM) to test different hypotheses about the modulations of regions related to biological motion perception (V1 and MT) and more high-level regions such as the parietal cortex. For this project, I am using the SPM12 toolbox on MATLAB to conduct 1st level analyses and create DCM models.
 
-Another goal of this study is to explain the top-down effect of attentional load on biological motion perception with a mechanistic computational model. For this, we are inspired by the two-pathway biological motion perception model proposed by Giese and Poggio and wish to expand this model with top-down feedback connections showing the effects of attentional load.
+Another goal of this study is to explain the top-down effect of attentional load on biological motion perception with a mechanistic computational model. For this, we are inspired by the two-pathway biological motion perception model proposed by [Prof. Giese and Prof. Poggio, in their 2003 work](https://www.nature.com/articles/nrn1057), and we wish to expand this model with top-down feedback connections modeling the effects of attentional load.
 
 
 <img src="/images/thesis_project.PNG" alt="thesis_project.png"/>
