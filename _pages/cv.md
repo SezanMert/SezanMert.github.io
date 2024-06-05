@@ -19,25 +19,26 @@ Academic experience
 * **Graduate Researcher at CCN Lab** - National Magnetic Resonance Research Center (UMRAM) 
   * *Duration:* September 2022 - Ongoing
   * *Supervisor:* Asst. Prof. Burcu A. Ürgen 
-  * Computational modeling of attentional load on biological motion perception with fMRI data.
+  * Analysis of the effects of attentional load on biological motion perception with fMRI data and Dynamic Causal Modeling.
   * Coding a pilot EEG experiment for perception of real actions and attentional processes on them.
     
 * **Teaching Assistant in Signals and Systems Course** - Dept. of EEE at Bilkent University
   * *Duration:* September 2022 - Ongoing
-  * Assisting lab sessions.
+  * Coordinating with fellow TAs and organizing the division of responsibilities as the coordinator TA.
+  * Creating content for lab manuals and assisting lab sessions.
   * Preparing and conducting the recitation hours.
     
 * **Undergraduate Research Assistant at CCN Lab** - National Magnetic Resonance Research Center (UMRAM)
   * *Duration:* September 2021 - September 2022
   * *Supervisors:* Asst. Prof. Burcu A. Ürgen, Sena Er Elmas & Hüseyin Elmas
-  * Time-frequency analysis on intracerebral EEG data.
+  * Time-frequency and coherence analysis on intracerebral EEG data.
   * Visualization of Representative Similarity Analysis results.
   * Assisting EEG data collection.
   
 Skills
 ======
 * **Programming Languages:** Python, MATLAB, C++, JavaScript, Java, SQL, C, Verilog (ordered according to proficiency and experience)
-* **Software & Tools:** PsychoPy, MNE-Python, EEGLAB, Psychtoolbox, LaTeX, LabView, LTSpice, Quartus (ordered according to proficiency and experience)
+* **Software & Tools:** PsychoPy, MNE-Python, EEGLAB, Psychtoolbox, SPM12, LaTeX, LabView, LTSpice, Quartus (ordered according to proficiency and experience)
 
 Publications
 ======
@@ -55,12 +56,12 @@ Internships
 * **[IBM Turkey](https://www.ibm.com/planetwide/tr/)** - Cloud & Cognitive Software Dept.
   * *Duration:* July 2020 - August 2020
   * *Supervisor:* Merve Özmen
-  * Contributions to the NLP Project for providing Turkish support to Watson language-supported services.
+  * Contributions to the NLP Project to provide Turkish support to Watson language-supported services.
   * Creating a chatbot for a shopping website with the connection of Tone Analyzer and Db2 database on the Cloud via Cloud Functions.
     
 * **[SnI Technology Services](https://snitechnology.net)** - Java Developers Team
   * *Duration:* July 2019
-  * Using knowledge of Java, SQL, Java Servlet, and HTML, a web application that connects and manipulates database has been designed and implemented on a scenario of holiday budget and destination.
+  * Using knowledge of Java, SQL, Java Servlet, and HTML, a web application that connects and manipulates databases has been designed and implemented on a scenario of holiday budget and destination.
 
 Online Courses & Certificates
 ======
