@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sezan Mert"
+title                    : "Sezan Oral (née Mert)"
 title_separator          : "-"
-name                     : &name "Sezan Mert"
-description              : "Sezan Mert"
+name                     : &name "Sezan Oral"
+description              : "Sezan Oral"
 url                      : https://sezanmert.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SezanMert/sezanmert.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sezan Mert"
   avatar           : "profile.jpg"
-  bio              : "M.Sc. Student in Neuroscience at Bilkent University"
+  bio              : "PhD Student in Neuroscience at Bilkent University"
   location         : "Ankara, TURKEY"
   employer         :
   email            : "sezan.mert@bilkent.edu.tr"
